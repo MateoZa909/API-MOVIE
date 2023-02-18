@@ -207,6 +207,10 @@ button {
   margin-left: 20px;
 }
 
+.header-arrow:active {
+  transform: scale(1.90);
+}
+
 .spreechTitle {
   width: 100%;
   height: 45px;
